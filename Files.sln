@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dll", "Dll", "{14CA378E-4B3
 		Dll\log4net.dll = Dll\log4net.dll
 		Dll\XY.DataAccess.dll = Dll\XY.DataAccess.dll
 		Dll\XY.DataAccess.pdb = Dll\XY.DataAccess.pdb
+		Dll\XY.Util.dll = Dll\XY.Util.dll
+		Dll\XY.Util.pdb = Dll\XY.Util.pdb
 		Dll\YunChengLK.Framework.dll = Dll\YunChengLK.Framework.dll
 	EndProjectSection
 EndProject
